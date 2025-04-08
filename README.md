@@ -14,13 +14,13 @@
 
 ---
 
-## ■ 프로젝트 소개
+## 프로젝트 소개
 **Daon**은 머신 러닝, Python 등 데이터 분석에 특화된 전문 도서를  
 쉽고 빠르게 검색하고, 장바구니에 담아볼 수 있는 웹 기반 도서 서비스입니다.
 
 ---
 
-## ■ 프로젝트 개발 일정
+## 프로젝트 개발 일정
 
 | 단계 | 기간 | 주요 작업 |
 |------|------|-----------|
@@ -31,7 +31,7 @@
 
 ---
 
-## ■ 담당 업무
+## 담당 업무
 
 | 이름 | 담당 기능 | 주요 역할 |
 |------|-----------|-----------|
@@ -45,7 +45,7 @@
 
 ---
 
-## ■ Skill & Tools
+## Skill & Tools
 
 ### ▪ Language
 <p>
@@ -77,7 +77,7 @@
 
 ---
 
-## ■ 기능 구현
+## 기능 구현
 
 - **회원 관리 기능 담당**
   - 회원 리스트 조회
@@ -98,7 +98,7 @@
 
 ---
 
-## ■ ER Diagram
+## ER Diagram
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kim-Mi-Gyeong/daon_mini/main/er diagram.png" width="500"/>
@@ -110,7 +110,7 @@
 
 ---
 
-## ■ Use Case Diagram
+## Use Case Diagram
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kim-Mi-Gyeong/daon_mini/main/use case diagram.png" width="720"/>

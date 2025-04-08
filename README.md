@@ -32,10 +32,6 @@
 
 ## 🛠 Skill & Tools
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/INSERT_YOUR_IMAGE_PATH_HERE/skill-tools.png" width="700"/>
-</p>
-
 | 분야 | 기술 |
 |------|------|
 | Language | Python |
@@ -48,7 +44,7 @@
 ## 📦 ER Diagram
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kim-Mi-Gyeong/daon_mini/main/er%20diagram.png" width="500"/>
+  <img src="https://raw.githubusercontent.com/Kim-Mi-Gyeong/daon_mini/main/er diagram.png" width="500"/>
 </p>
 
 - **user**: 사용자 정보 (id, username, password, email 등)
@@ -60,7 +56,7 @@
 ## 👤 Use Case Diagram
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kim-Mi-Gyeong/daon_mini/main/use%20case%20diagram.png" width="720"/>
+  <img src="https://raw.githubusercontent.com/Kim-Mi-Gyeong/daon_mini/main/use case diagram.png" width="720"/>
 </p>
 
 - 비회원은 회원가입, 상품 목록 조회, 검색, 상세 확인이 가능

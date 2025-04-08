@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠 Skill & Tools
+## Skill & Tools
 
 | 분야 | 기술 |
 |------|------|
@@ -41,7 +41,7 @@
 
 ---
 
-## 📦 ER Diagram
+## ER Diagram
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kim-Mi-Gyeong/daon_mini/main/er diagram.png" width="500"/>
@@ -53,7 +53,7 @@
 
 ---
 
-## 👤 Use Case Diagram
+## Use Case Diagram
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kim-Mi-Gyeong/daon_mini/main/use case diagram.png" width="720"/>
@@ -65,6 +65,6 @@
 
 ---
 
-## 🧪 How to Test
+## How to Test
 
 

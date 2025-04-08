@@ -1,5 +1,17 @@
 # Daon - 데이터 분석 도서 서비스
 
+---
+
+## 📑 목차
+
+1. [프로젝트 소개](#프로젝트-소개)
+2. [Skill & Tools](#-Skill & Tools)
+3. [기능 구현](#기능-구현)
+4. [시연 화면](#시연-화면)
+
+---
+
+## 프로젝트 소개
 **Daon**은 머신 러닝, Python 등 데이터 분석에 특화된 전문 도서를  
 쉽고 빠르게 검색하고, 장바구니에 담아볼 수 있는 웹 기반 도서 서비스입니다.
 
@@ -59,6 +71,27 @@
   <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/UML-0D1839?style=for-the-badge&logo=uml&logoColor=white"/>
 </p>
+
+---
+
+## 기능 구현
+
+- **회원 관리 기능 담당**
+  - 회원 리스트 조회
+  - 회원 정보 수정
+  - 회원 삭제
+
+### 관리자 로그인 페이지
+<img src="KakaoTalk_20250407_172157711_10.jpg" width="500"/>
+
+### 관리자 회원관리 페이지
+<img src="KakaoTalk_20250407_172157711_04.jpg" width="700"/>
+
+### 회원 정보 수정 페이지
+<img src="KakaoTalk_20250407_172157711_05.jpg" width="500"/>
+
+### 회원 리스트 페이지 (페이지네이션 포함)
+<img src="KakaoTalk_20250407_172157711_07.jpg" width="700"/>
 
 ---
 
